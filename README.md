@@ -1,7 +1,7 @@
 
 # TbebakChat APP 
 -----------
-this app like what'sapp application have chat screen , stauts screen , and enable user to make video and audio call.
+this app like whatsapp have chat screen , stauts screen , and enable user to make video and audio call.
 
 Demo
 -----------
